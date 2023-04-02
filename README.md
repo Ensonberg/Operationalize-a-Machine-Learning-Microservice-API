@@ -1,4 +1,4 @@
-[![kcemenike](https://circleci.com/gh/kcemenike/operationalize-ml.svg?style=svg)](https://app.circleci.com/pipelines/github/kcemenike/operationalize-ml)
+[![Ensonberg](https://circleci.com/gh/Ensonberg/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/Ensonberg/Operationalize-a-Machine-Learning-Microservice-API)
 
 ## Project Overview
 
